@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Giphy Markdown Link",
     "description": "Copy a Giphy's GIF link in markdown format so it's ready to be pasted into markdown files",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": "Clyde D'Souza",
     "icons": {
       "16": "icons/icon16.png",
