@@ -32,13 +32,6 @@ body:
     id: extension
     attributes:
       label: Extension version
-      placeholder: ex. Amazon to Goodreads Navigator 1.0.0
-    validations:
-      required: true  
-  - type: input
-    id: amazonpage
-    attributes:
-      label: Amazon website URL
-      placeholder: ex. https://smile.amazon.com/Mama-Tell-Me-Story-Collection/dp/B094259YQK/
+      placeholder: ex. Giphy Markdown Link 1.0.0
     validations:
       required: true  

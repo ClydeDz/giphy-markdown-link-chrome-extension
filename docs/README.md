@@ -1,12 +1,8 @@
-# Amazon to Goodreads Navigator Chrome Extension
-Adds a 1-click 'View in Goodreads' button on Amazon book pages to easily navigate from Amazon to Goodreads when clicked.
+# Giphy Markdown Link Chrome Extension
+Copy a Giphy's GIF link in markdown format so it's ready to be pasted into markdown files
 
 ## Why?
-When I come across a book that I like on Amazon, I immediately want to head over to its Goodreads page and save it to my 'Want to read' list. However, this process is tedious as I have to manually open up Goodreads and search for the book before I can actually click that button.
-
-This Chrome extension removes the need for multiple steps. Just click on the 'View in Goodreads' button to directly open up that book's Goodreads page. Easy as! 
-
-Happy reading!
+I've had the need to copy gif's to a markdown based pull request on file and I've always had to first copy the link and then wrap the link in markdown syntax. This extension reduces the need to manually write the syntax. Just directly copy the link from the GIPHY page itself. 
 
 ## Credits
 Developed by [Clyde D'Souza](https://clydedsouza.net/)
